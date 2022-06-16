@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\RegistroDeAuto\RegistroDeAuto\bin\Debug\RegistroDeAuto.exe
+C:\Users\tauro\Desktop\RegistroDeAuto\RegistroDeAuto\bin\Debug\RegistroDeAuto.pdb
+C:\Users\tauro\Desktop\RegistroDeAuto\RegistroDeAuto\obj\Debug\RegistroDeAuto.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\RegistroDeAuto\RegistroDeAuto\obj\Debug\RegistroDeAuto.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\RegistroDeAuto\RegistroDeAuto\obj\Debug\RegistroDeAuto.exe
+C:\Users\tauro\Desktop\RegistroDeAuto\RegistroDeAuto\obj\Debug\RegistroDeAuto.pdb
